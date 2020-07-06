@@ -2,6 +2,8 @@
 
 App Store'a yüklemek üzere geliştirdiğim projemin ekran görüntüsü ve videosu aşağıda yer almaktadır. 
 
+Bu proje benim kişisel projem olduğu için kodlarını paylaşamıyorum.
+
 Bu uygulama, kullanıcıların tiktok uygulaması için takipçi, beğeni ve izlenim satın alabileceği bir uygulamadır.
 
 Kullanıcıların ne kadar takipçi, beğeni ve izleniö istediğini firebase de kaydetiyorum ve çalıştığım servisle kullanıcılara takipçi,beğeni veya izlenim gönderebiliyorum.
